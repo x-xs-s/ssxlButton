@@ -1,4 +1,6 @@
-/* Fullscreen static background image (bg.png).
+/* Fullscreen static background image.
+   Desktop/tablet: /img/bg_2560.webp — Mobile (<=600px): /img/bg_mobile.webp.
+   The <picture><source> switch lives in public/index.html.
    position:fixed + inset:0 fills the visible viewport; no width/height in vw/vh
    so mobile browsers (whose URL bar shrinks) don't show a background gap. */
 .bg-video {
