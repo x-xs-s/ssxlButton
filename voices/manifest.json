@@ -1,6 +1,18 @@
 {
   "categories": [
     {
+      "title": "吾皇小路",
+      "voices": [
+        {
+          "title": "欧若妈",
+          "file": "吾皇小路/欧若妈.mp3",
+          "date": "2026-09-11",
+          "author": "小路泥"
+        }
+      ],
+      "author": "小路泥"
+    },
+    {
       "title": "成语小路",
       "voices": [
         {
